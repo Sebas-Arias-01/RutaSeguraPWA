@@ -1,0 +1,22 @@
+{
+  "name": "Ruta Segura Tunja",
+  "short_name": "RutaSegura",
+  "description": "Aplicación de rutas seguras para la ciudad de Tunja",
+  "scope": "/RutaSeguraPWA/",
+  "start_url": "/RutaSeguraPWA/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "img/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
